@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently learning  **Backend Technologies**
+- 🔭 I’m currently learning  **Data Science**
 
 - 📫 How to reach me **efeeroglu061@gmail.com**
 
