@@ -1,19 +1,13 @@
 
+### :man_technologist: About Me :
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineering Student 
+- :telescope:     I'm working currently **Data Science & AI Technologies**
 
-- 🔭 I’m currently learning  **Data Science & AI Technologies**
 
-- 📫 How to reach me **efeeroglu061@gmail.com**
+<br>
 
- </a>
-</div>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/efeeroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeeroglu" height="30" width="40" /></a>
-<a href="https://instagram.com/eferogglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eferogglu" height="30" width="40" /></a>
-<a href="https://discord.gg/#0325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0325" height="30" width="40" /></a>
- 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,4 +44,17 @@
   
 <br/>
 
+---
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efe-eroglu&" alt="efe-eroglu" /></p>
+
+
+
+---
+
+### :mailbox: Contact With Me :
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeeroglu/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efeeroglu061@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/efeeroglu)
