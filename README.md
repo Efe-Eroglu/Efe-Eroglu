@@ -4,8 +4,6 @@
 - :telescope:     I'm working currently **Data Science & AI Technologies**
 
 
-<br>
-
 ---
 
 
