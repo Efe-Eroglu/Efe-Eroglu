@@ -1,5 +1,4 @@
 
-### :man_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineering Student 
 - :telescope:     I'm working currently **Data Science & AI Technologies**
 
