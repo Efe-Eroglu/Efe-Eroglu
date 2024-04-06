@@ -31,11 +31,7 @@
   
 <br/>
 
----
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efe-eroglu&" alt="efe-eroglu" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=efe-eroglu&theme=radical&hide_border=false" alt="efe-eroglu"/></p>
 
 
 
