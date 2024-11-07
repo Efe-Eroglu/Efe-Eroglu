@@ -57,7 +57,7 @@
 
 <br/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=efe-eroglu&theme=radical&hide_border=false" alt="efe-eroglu"/></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Efe-Eroglu&theme=react" alt="efeeroglu"/></p>
 
 ---
 
