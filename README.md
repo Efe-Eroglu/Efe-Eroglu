@@ -13,7 +13,7 @@
 
 <br/>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Efe-Eroglu&theme=gruvbox" alt="efeeroglu"/></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Efe-Eroglu&theme=jolly" alt="efeeroglu"/></p>
 
 ---
 
