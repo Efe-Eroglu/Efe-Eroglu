@@ -1,5 +1,5 @@
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineering Student 
-- :telescope:     I'm currently working with **Data Science & AI Technologies**
+- 🧠 Building AI systems with LLMs, NLP & Deep Learning  
+- 📈 Turning AI research into real-world applications
 
 ---
 
